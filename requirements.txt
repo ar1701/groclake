@@ -40,6 +40,7 @@ Flask==3.1.0
 Flask-Cors==5.0.0
 geometry-msgs==4.2.4
 groclake==0.1.14
+gunicorn==23.0.0
 idna==3.10
 image-geometry==3.2.1
 interactive-markers==2.3.2
@@ -63,6 +64,7 @@ nav2-common==1.1.17
 nav2-msgs==1.1.17
 nav2-simple-commander==1.0.0
 osrf-pycommon==2.1.4
+packaging==24.2
 pcl-msgs==1.0.0
 pendulum-msgs==0.20.5
 python-qt-binding==1.1.2
